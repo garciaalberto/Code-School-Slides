@@ -1,7 +1,7 @@
 Code-School-Slides
 ==================
 # HTML&CSS
-- Front-end Foundations
+- [Front-end Foundations](http://courseware.codeschool.com/front-end-foundations/Front-end-Foundations.pdf)
 - [Front-end Formations](http://courseware.codeschool.com.s3.amazonaws.com/frontend/Code%20School%20-%20Front-end%20Formations.pdf)
 - [CSS Cross-Country](http://courseware.codeschool.com.s3.amazonaws.com/cssxcountry_slides.pdf)
 - [Journey Into Mobile](http://courseware.codeschool.com.s3.amazonaws.com/journey_into_mobile_slides.pdf)
@@ -53,7 +53,7 @@ Code-School-Slides
 - Try Git
 - [Git Real](http://courseware.codeschool.com.s3.amazonaws.com/git_real_slides.pdf)
 - [Git Real 2](http://courseware.codeschool.com.s3.amazonaws.com/git_real2/git_real_2_full_deck.pdf)
-- Mastering Github
+- [Mastering Github](http://courseware.codeschool.com/mastering-github/CodeSchool_MasteringGithubCourse.pdf)
 
 # Retired
 - [HTML & CSS Formations: 3 for 5](http://courseware.codeschool.com.s3.amazonaws.com/Three_For_Five.pdf), [Cheatsheet](http://courseware.codeschool.com.s3.amazonaws.com/css3_cheat_sheetv4.2.pdf)
