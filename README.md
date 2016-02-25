@@ -19,6 +19,9 @@ Code-School-Slides
 - [The Anatomy of Backbone.js Part 1](http://courseware.codeschool.com.s3.amazonaws.com/The_Anatomy_of_BackboneJS.pdf)
 - [The Anatomy of Backbone.js Part 2](http://courseware.codeschool.com.s3.amazonaws.com/backbone2/backbone2.pdf)
 - [Real-time Web with Node.js](http://courseware.codeschool.com.s3.amazonaws.com/node_slides.pdf)
+- [Staying Sharp with Angular](http://courseware.codeschool.com/staying-sharp-with-angular-js/angular2-full.pdf)
+- [Building Blocks of Express js](http://courseware.codeschool.com/building-blocks-of-express-js/all-levels.pdf)
+- [real-time-web-with-node-js](http://courseware.codeschool.com/real-time-web-with-node-js/all-levels.pdf)
 - Node Design Patterns
 - [Warming Up with Ember.js](http://courseware.codeschool.com/ember/slides/CodeSchool-Emberjs.pdf)
 - [Shaping Up with Angular.js](http://courseware.codeschool.com/shaping-up-with-angular-js/Slides/level01-05.pdf)
@@ -44,6 +47,7 @@ Code-School-Slides
 - [iOS Operation: MapKit](http://courseware.codeschool.com.s3.amazonaws.com/mapkit/Operation-MapKit-Slides.pdf)
 - [Core iOS7](http://courseware.codeschool.com.s3.amazonaws.com/ios7/iOS7CourseSlides.pdf)
 - [Exploring Google Maps for iOS](http://courseware.codeschool.com/googlemapsios/Exploring-Google-Maps-For-iOS-FULL.pdf)
+- [An Objective-C Primer](http://courseware.codeschool.com/try_ios/objective_c_primer.pdf)
 
 # Electives
 - Discover DevTools
