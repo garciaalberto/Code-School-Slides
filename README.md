@@ -26,6 +26,7 @@ Code-School-Slides
 - [Shaping Up with Angular.js](http://courseware.codeschool.com/shaping-up-with-angular-js/Slides/level01-05.pdf)
 - [Staying Sharp with Angular.js](http://courseware.codeschool.com/staying-sharp-with-angular-js/angular2-full.pdf)
 - [JavaScript Best Practices](http://courseware.codeschool.com.s3.amazonaws.com/javascript-best-practices/JSBP_full.pdf)
+- [ES2015: The Shape of JavaScript to Come](http://courseware.codeschool.com/es2015-the-shape-of-javascript-to-come/all-levels.pdf)
 - [Powering Up With React](http://courseware.codeschool.com/powering-up-with-react/CodeSchool-PoweringUpWithReact.pdf)
 
 # Ruby and Rails
