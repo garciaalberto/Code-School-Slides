@@ -7,6 +7,7 @@ Code-School-Slides
 - [Journey Into Mobile](http://courseware.codeschool.com.s3.amazonaws.com/journey_into_mobile_slides.pdf)
 - [Unmasking HTML Emails](http://courseware.codeschool.com/unmasking_html_emails/slides/CodeSchool-UnmaskingHTMLEmails.pdf)
 - [You, Me & SVG](http://courseware.codeschool.com/you-me-svg/CodeSchool-YouMeSvg.pdf)
+- Adventures in Web Animations
 - [Assembling Sass Part 1](http://courseware.codeschool.com.s3.amazonaws.com/assembling_sass_slides.pdf)
 - [Assembling Sass Part 2](http://courseware.codeschool.com.s3.amazonaws.com/assembling_sass_part_2_slides.pdf)
 - [Blasting Off with Bootstrap](http://courseware.codeschool.com/blasting_off_with_bootstrap/slides/CodeSchool-BlastingOffWithBootstrap.pdf)
@@ -43,7 +44,12 @@ Code-School-Slides
 - [Rails Best Practices](http://courseware.codeschool.com.s3.amazonaws.com/Rails_Best_Practices_Slides.pdf)
 - [Surviving APIs with Rails](http://courseware.codeschool.com/railsapis/CodeSchool-RailsAPIs.pdf)
 
+# Python
+- Try Python
+- Flying Through Python
+
 # iOS
+- App Evolution With Swift
 - Try Objective-C
 - [Try iOS](http://courseware.codeschool.com.s3.amazonaws.com/try_ios/CodeSchool_Try_iOS.pdf)
 - [iOS Operation: Models](http://courseware.codeschool.com.s3.amazonaws.com/iosom/Operation-Models-Slides.pdf)
@@ -63,6 +69,7 @@ Code-School-Slides
 - [Mastering Github](http://courseware.codeschool.com/mastering-github/CodeSchool_MasteringGithubCourse.pdf)
 
 # Electives
+- Breaking the Ice With Regular Expressions
 - Discover DevTools
 - [Discover Drive](http://courseware.codeschool.com.s3.amazonaws.com/discover-drive-full.pdf)
 - Discover Dart
