@@ -52,6 +52,8 @@ Code-School-Slides
 
 # Database
 - [Try SQL](http://courseware.codeschool.com/try_sql/trysql-slides.pdf)
+- [The Sequel to SQL](http://courseware.codeschool.com/the_sequel_to_sql/slides/CodeSchool-TheSequelToSQL-full-small.pdf)
+- [The Magical Marvels of MongoDB](http://courseware.codeschool.com/the-magical-marvels-of-mongodb/the-magical-marvels-of-mongodb-slides.pdf)
 
 # Git
 - Try Git
