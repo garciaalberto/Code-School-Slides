@@ -50,16 +50,20 @@ Code-School-Slides
 - [Core iOS7](http://courseware.codeschool.com.s3.amazonaws.com/ios7/iOS7CourseSlides.pdf)
 - [Exploring Google Maps for iOS](http://courseware.codeschool.com/googlemapsios/Exploring-Google-Maps-For-iOS-FULL.pdf)
 
+# Database
+- [Try SQL](http://courseware.codeschool.com/try_sql/trysql-slides.pdf)
+
+# Git
+- Try Git
+- [Git Real](http://courseware.codeschool.com.s3.amazonaws.com/git_real_slides.pdf)
+- [Git Real 2](http://courseware.codeschool.com.s3.amazonaws.com/git_real2/git_real_2_full_deck.pdf)
+- [Mastering Github](http://courseware.codeschool.com/mastering-github/CodeSchool_MasteringGithubCourse.pdf)
+
 # Electives
 - Discover DevTools
 - [Discover Drive](http://courseware.codeschool.com.s3.amazonaws.com/discover-drive-full.pdf)
 - Discover Dart
 - Try R
-- [Try SQL](http://courseware.codeschool.com/try_sql/trysql-slides.pdf)
-- Try Git
-- [Git Real](http://courseware.codeschool.com.s3.amazonaws.com/git_real_slides.pdf)
-- [Git Real 2](http://courseware.codeschool.com.s3.amazonaws.com/git_real2/git_real_2_full_deck.pdf)
-- [Mastering Github](http://courseware.codeschool.com/mastering-github/CodeSchool_MasteringGithubCourse.pdf)
 
 # Retired
 - [HTML & CSS Formations: 3 for 5](http://courseware.codeschool.com.s3.amazonaws.com/Three_For_Five.pdf), [Cheatsheet](http://courseware.codeschool.com.s3.amazonaws.com/css3_cheat_sheetv4.2.pdf)
