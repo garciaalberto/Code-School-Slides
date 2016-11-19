@@ -54,7 +54,7 @@ Act: All courses in November 2016 organized as paths
 - [Powering Up With React](http://courseware.codeschool.com/powering-up-with-react/CodeSchool-PoweringUpWithReact.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/powering-up-with-react/CodeSchool-PoweringUpWithReact.pdf)
 - [Try Ember](http://courseware.codeschool.com/try_ember/CodeSchool-TryEmber.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/try_ember/CodeSchool-TryEmber.pdf)
 - [Shaping Up with Angular.js](http://courseware.codeschool.com/shaping-up-with-angular-js/Slides/level01-05.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/shaping-up-with-angular-js/Slides/level01-05.pdf)
-- [Staying Sharp with Angular.js](http://courseware.codeschool.com/staying-sharp-with-angular-js/angular2-full-small.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/staying-sharp-with-angular-js/angular2-full-small.pdf)
+- [Staying Sharp with Angular.js](http://courseware.codeschool.com/staying-sharp-with-angular-js/angular2-full-small.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/staying-sharp-with-angular-js/angular2-full-small.pdf), [Hi-Res](http://courseware.codeschool.com/staying-sharp-with-angular-js/angular2-full.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/staying-sharp-with-angular-js/angular2-full.pdf)
 - [The Anatomy of Backbone.js](http://courseware.codeschool.com/The_Anatomy_of_BackboneJS.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/The_Anatomy_of_BackboneJS.pdf)
 - [The Anatomy of Backbone.js Part 2](http://courseware.codeschool.com/backbone2/backbone2.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/backbone2/backbone2.pdf)
 
@@ -110,7 +110,7 @@ Act: All courses in November 2016 organized as paths
 
 #### Getting Started With Python
 - [Try Python](http://courseware.codeschool.com/try_python/CodeSchool-TryPython.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/try_python/CodeSchool-TryPython.pdf)
-- [Flying Through Python](http://courseware.codeschool.com/flying_through_python/slides/CodeSchool-FlyingThroughPython-small.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/flying_through_python/slides/CodeSchool-FlyingThroughPython-small.pdf)
+- [Flying Through Python](http://courseware.codeschool.com/flying_through_python/slides/CodeSchool-FlyingThroughPython-small.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/flying_through_python/slides/CodeSchool-FlyingThroughPython-small.pdf), [Hi-Res](http://courseware.codeschool.com/flying_through_python/slides/CodeSchool-FlyingThroughPython.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/flying_through_python/slides/CodeSchool-FlyingThroughPython.pdf)
 
 #### Django
 - [Try Django](http://courseware.codeschool.com/try_django/CodeSchool-TryDjango.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/try_django/CodeSchool-TryDjango.pdf)
@@ -158,7 +158,7 @@ Act: All courses in November 2016 organized as paths
 
 #### SQL
 - [Try SQL](http://courseware.codeschool.com/try_sql/trysql-slides.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/try_sql/trysql-slides.pdf)
-- [The Sequel to SQL](http://courseware.codeschool.com/the_sequel_to_sql/slides/CodeSchool-TheSequelToSQL-full-small.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/the_sequel_to_sql/slides/CodeSchool-TheSequelToSQL-full-small.pdf)
+- [The Sequel to SQL](http://courseware.codeschool.com/the_sequel_to_sql/slides/CodeSchool-TheSequelToSQL-full-small.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/the_sequel_to_sql/slides/CodeSchool-TheSequelToSQL-full-small.pdf), [Hi-Res](http://courseware.codeschool.com/the_sequel_to_sql/slides/CodeSchool-TheSequelToSQL-full.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/the_sequel_to_sql/slides/CodeSchool-TheSequelToSQL-full.pdf)
 
 #### NoSQL
 - [The Magical Marvels of MongoDB](http://courseware.codeschool.com/the-magical-marvels-of-mongodb/the-magical-marvels-of-mongodb-slides.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/the-magical-marvels-of-mongodb/the-magical-marvels-of-mongodb-slides.pdf)
