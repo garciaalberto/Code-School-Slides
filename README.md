@@ -12,6 +12,7 @@ Code-School-Slides
 - [Assembling Sass Part 2](http://courseware.codeschool.com.s3.amazonaws.com/assembling_sass_part_2_slides.pdf)
 - [Blasting Off with Bootstrap](http://courseware.codeschool.com/blasting_off_with_bootstrap/slides/CodeSchool-BlastingOffWithBootstrap.pdf)
 - [Fundamentals of Design](http://courseware.codeschool.com.s3.amazonaws.com/FoD_optimized.pdf)
+- [Blasting Off with Bootstrap](http://courseware.codeschool.com/blasting_off_with_bootstrap/slides/CodeSchool-BlastingOffWithBootstrap.pdf)
 
 # JavaScript
 - [JavaScript Road Trip Part 1](http://courseware.codeschool.com.s3.amazonaws.com/javascript-roadtrip/js1.pdf)
@@ -26,9 +27,9 @@ Code-School-Slides
 - [Building Blocks of Express.js](http://courseware.codeschool.com/building-blocks-of-express-js/all-levels.pdf)
 - [Warming Up with Ember.js](http://courseware.codeschool.com/ember/slides/CodeSchool-Emberjs.pdf)
 - [Shaping Up with Angular.js](http://courseware.codeschool.com/shaping-up-with-angular-js/Slides/level01-05.pdf)
-- [Staying Sharp with Angular.js](http://courseware.codeschool.com/staying-sharp-with-angular-js/angular2-full.pdf)
+- [Staying Sharp with Angular.js](http://courseware.codeschool.com/staying-sharp-with-angular-js/angular2-full-small.pdf), [OLD](http://courseware.codeschool.com/staying-sharp-with-angular-js/angular2-full.pdf)
 - [JavaScript Best Practices](http://courseware.codeschool.com.s3.amazonaws.com/javascript-best-practices/JSBP_full.pdf)
-- [ES2015: The Shape of JavaScript to Come](http://courseware.codeschool.com/es2015-the-shape-of-javascript-to-come/all-levels.pdf)
+- [ES2015: The Shape of JavaScript to come](http://courseware.codeschool.com/es2015-the-shape-of-javascript-to-come/all-levels.pdf)
 - [Powering Up With React](http://courseware.codeschool.com/powering-up-with-react/CodeSchool-PoweringUpWithReact.pdf)
 
 # Ruby and Rails
