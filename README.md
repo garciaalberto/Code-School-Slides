@@ -34,7 +34,6 @@ Act: All courses in November 2016
 - [The Anatomy of Backbone.js Part 2](http://courseware.codeschool.com.s3.amazonaws.com/backbone2/backbone2.pdf)
 - [Real-time Web with Node.js](http://courseware.codeschool.com/real-time-web-with-node-js/all-levels.pdf)
 - [Building Blocks of Express js](http://courseware.codeschool.com/building-blocks-of-express-js/all-levels.pdf)
-- Node Design Patterns
 - [A Sip of CoffeeScript](http://courseware.codeschool.com.s3.amazonaws.com/coffeescript_slides.pdf)
 
 
@@ -97,3 +96,4 @@ Act: All courses in November 2016
 - [Rails Best Practices](http://courseware.codeschool.com.s3.amazonaws.com/Rails_Best_Practices_Slides.pdf)
 - [Discover Drive](http://courseware.codeschool.com.s3.amazonaws.com/discover-drive-full.pdf)
 - Discover Dart
+- Node Design Patterns
