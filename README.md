@@ -1,13 +1,18 @@
-Code-School-Slides
-==================
+# Code-School-Slides
+
 # HTML&CSS
 - [Front-end Foundations](http://courseware.codeschool.com/front-end-foundations/Front-end-Foundations.pdf)
 - [Front-end Formations](http://courseware.codeschool.com.s3.amazonaws.com/frontend/Code%20School%20-%20Front-end%20Formations.pdf)
 - [CSS Cross-Country](http://courseware.codeschool.com.s3.amazonaws.com/cssxcountry_slides.pdf)
 - [Journey Into Mobile](http://courseware.codeschool.com.s3.amazonaws.com/journey_into_mobile_slides.pdf)
+- [Unmasking HTML Emails](http://courseware.codeschool.com/unmasking_html_emails/slides/CodeSchool-UnmaskingHTMLEmails.pdf)
+- [You, Me & SVG](http://courseware.codeschool.com/you-me-svg/CodeSchool-YouMeSvg.pdf)
+- Adventures in Web Animations
 - [Assembling Sass Part 1](http://courseware.codeschool.com.s3.amazonaws.com/assembling_sass_slides.pdf)
 - [Assembling Sass Part 2](http://courseware.codeschool.com.s3.amazonaws.com/assembling_sass_part_2_slides.pdf)
+- [Blasting Off with Bootstrap](http://courseware.codeschool.com/blasting_off_with_bootstrap/slides/CodeSchool-BlastingOffWithBootstrap.pdf)
 - [Fundamentals of Design](http://courseware.codeschool.com.s3.amazonaws.com/FoD_optimized.pdf)
+- [Blasting Off with Bootstrap](http://courseware.codeschool.com/blasting_off_with_bootstrap/slides/CodeSchool-BlastingOffWithBootstrap.pdf)
 
 # JavaScript
 - [JavaScript Road Trip Part 1](http://courseware.codeschool.com.s3.amazonaws.com/javascript-roadtrip/js1.pdf)
@@ -25,7 +30,10 @@ Code-School-Slides
 - Node Design Patterns
 - [Warming Up with Ember.js](http://courseware.codeschool.com/ember/slides/CodeSchool-Emberjs.pdf)
 - [Shaping Up with Angular.js](http://courseware.codeschool.com/shaping-up-with-angular-js/Slides/level01-05.pdf)
+- [Staying Sharp with Angular.js](http://courseware.codeschool.com/staying-sharp-with-angular-js/angular2-full-small.pdf), [OLD](http://courseware.codeschool.com/staying-sharp-with-angular-js/angular2-full.pdf)
 - [JavaScript Best Practices](http://courseware.codeschool.com.s3.amazonaws.com/javascript-best-practices/JSBP_full.pdf)
+- [ES2015: The Shape of JavaScript to come](http://courseware.codeschool.com/es2015-the-shape-of-javascript-to-come/all-levels.pdf)
+- [Powering Up With React](http://courseware.codeschool.com/powering-up-with-react/CodeSchool-PoweringUpWithReact.pdf)
 
 # Ruby and Rails
 - Try Ruby
@@ -40,7 +48,12 @@ Code-School-Slides
 - [Rails Best Practices](http://courseware.codeschool.com.s3.amazonaws.com/Rails_Best_Practices_Slides.pdf)
 - [Surviving APIs with Rails](http://courseware.codeschool.com/railsapis/CodeSchool-RailsAPIs.pdf)
 
+# Python
+- Try Python
+- Flying Through Python
+
 # iOS
+- App Evolution With Swift
 - Try Objective-C
 - [Try iOS](http://courseware.codeschool.com.s3.amazonaws.com/try_ios/CodeSchool_Try_iOS.pdf)
 - [iOS Operation: Models](http://courseware.codeschool.com.s3.amazonaws.com/iosom/Operation-Models-Slides.pdf)
@@ -49,11 +62,24 @@ Code-School-Slides
 - [Exploring Google Maps for iOS](http://courseware.codeschool.com/googlemapsios/Exploring-Google-Maps-For-iOS-FULL.pdf)
 - [An Objective-C Primer](http://courseware.codeschool.com/try_ios/objective_c_primer.pdf)
 
+# Database
+- [Try SQL](http://courseware.codeschool.com/try_sql/trysql-slides.pdf)
+- [The Sequel to SQL](http://courseware.codeschool.com/the_sequel_to_sql/slides/CodeSchool-TheSequelToSQL-full-small.pdf)
+- [The Magical Marvels of MongoDB](http://courseware.codeschool.com/the-magical-marvels-of-mongodb/the-magical-marvels-of-mongodb-slides.pdf)
+
+# Git
+- Try Git
+- [Git Real](http://courseware.codeschool.com.s3.amazonaws.com/git_real_slides.pdf)
+- [Git Real 2](http://courseware.codeschool.com.s3.amazonaws.com/git_real2/git_real_2_full_deck.pdf)
+- [Mastering Github](http://courseware.codeschool.com/mastering-github/CodeSchool_MasteringGithubCourse.pdf)
+
 # Electives
+- Breaking the Ice With Regular Expressions
 - Discover DevTools
 - [Discover Drive](http://courseware.codeschool.com.s3.amazonaws.com/discover-drive-full.pdf)
 - Discover Dart
 - Try R
+
 - Try Git
 - [Git Real](http://courseware.codeschool.com.s3.amazonaws.com/git_real_slides.pdf)
 - [Git Real 2](http://courseware.codeschool.com.s3.amazonaws.com/git_real2/git_real_2_full_deck.pdf)
