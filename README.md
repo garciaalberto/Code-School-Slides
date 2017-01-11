@@ -1,6 +1,6 @@
 # Code-School-Slides
 
-Act: All courses in November 2016 organized as paths
+Act: All courses in January 2017 organized as paths
 
 
 
