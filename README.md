@@ -106,6 +106,14 @@ Act: All courses in January 2017 organized as paths
 
 
 
+# Elixir
+
+#### Getting Started With Elixir
+- [Try Elixir](http://courseware.codeschool.com/try_elixir/slides/CodeSchool-TryElixir.pdf) [[S3]](http://courseware.codeschool.com.s3.amazonaws.com/try_elixir/slides/CodeSchool-TryElixir.pdf)
+- Mixing It Up With Elixir
+
+
+
 # Python
 
 #### Getting Started With Python
